@@ -1,0 +1,57 @@
+p{
+    text-align: center;
+    font-weight: bold;
+    font-size: 200px;
+    margin: 40px;
+    padding: 30px;
+    border: solid 10px;
+    border-color: red blue green rgb(243, 5, 243);
+    background-color: aquamarine;
+    color: black;
+}
+h1{
+    font-weight: bold;
+    font-size: 40px;
+    margin: 30px;
+    padding: 20px;
+    border:solid 5px red;
+    background-color: aquamarine;
+}
+body{
+    background-color: cadetblue;
+}
+
+h3{
+    text-align: center;
+    margin: 0px;
+    padding: 0px;
+    border: 0px;
+    font-size: 300px;
+}
+/* ​adicionando margem em todos os lados separadamente (seguindo o sentido horário)
+
+margin: 30px 10px 5px 2px;
+
+estrutura: topo direita baixo esquerda
+
+---------------------------
+
+adicionando margem em todos os lados ao mesmo tempo
+
+margin: 30px; 
+
+---------------------------​
+
+adicionando a mesma margem em cima e embaixo, e nas laterais 
+
+margin: 30px 15px;
+
+estru​tura: topo/baixo direita/esquerda
+
+---------------------------​
+
+adicionando margem em cima, nas duas laterais (ao mesmo tempo) e embaixo
+
+margin: 30px 15px 10px;
+
+estrutura: topo direita/esquerda baixo */
